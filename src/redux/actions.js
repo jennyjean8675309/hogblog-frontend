@@ -1,4 +1,4 @@
-const URL = 'https://jennys-hogblog-app.herokuapp.com/'
+const URL = 'https://jennys-hogblog-app.herokuapp.com'
 
 const fetchingHogs = () => {
   return (dispatch) => {
